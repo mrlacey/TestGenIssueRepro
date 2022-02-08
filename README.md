@@ -6,7 +6,7 @@ Below each of the following screenshots are explanations of the numbered element
 
 ## Scenario 1 - The developer written test selected
 
-![Screenshot 1](./Assets/Screenshot1.png)
+![Screenshot 1](./Assets/screenshot1.png)
 
 1. The Source Generator project. (This always outputs a single file containing a single test.)
 2. The MSTest project that contains a single file containing a single test. It also has a reference to the other (source generator) project.
@@ -18,7 +18,7 @@ Below each of the following screenshots are explanations of the numbered element
 
 ## Scenario 2 - The generated test selected
 
-![Screenshot 2](./Assets/Screenshot2.png)
+![Screenshot 2](./Assets/screenshot2.png)
 
 1. The generated test is selected in the Test Explorer.
 2. The output from the test (in the Test Detail Summary) claims "No source available".
